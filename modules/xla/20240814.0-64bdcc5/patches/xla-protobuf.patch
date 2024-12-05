@@ -1,0 +1,26 @@
+diff --git a/third_party/tsl/tsl/platform/default/human_readable_json.cc b/third_party/tsl/tsl/platform/default/human_readable_json.cc
+index 167cdd2b89..bc99ce554e 100644
+--- a/third_party/tsl/tsl/platform/default/human_readable_json.cc
++++ b/third_party/tsl/tsl/platform/default/human_readable_json.cc
+@@ -33,7 +33,7 @@ absl::StatusOr<std::string> ProtoToHumanReadableJson(
+ 
+   protobuf::util::JsonPrintOptions json_options;
+   json_options.preserve_proto_field_names = true;
+-  json_options.always_print_primitive_fields = true;
++  json_options.always_print_fields_with_no_presence = true;
+   auto status =
+       protobuf::util::MessageToJsonString(proto, &result, json_options);
+   if (!status.ok()) {
+diff --git a/xla/tools/hlo_proto_to_json.cc b/xla/tools/hlo_proto_to_json.cc
+index ae7f0e019a..9746bccdac 100644
+--- a/xla/tools/hlo_proto_to_json.cc
++++ b/xla/tools/hlo_proto_to_json.cc
+@@ -46,7 +46,7 @@ absl::StatusOr<std::string> ToJson(const tsl::protobuf::Message& message) {
+   std::string json_output;
+   tsl::protobuf::util::JsonPrintOptions json_options;
+   json_options.add_whitespace = true;
+-  json_options.always_print_primitive_fields = true;
++  json_options.always_print_fields_with_no_presence = true;
+   auto status = tsl::protobuf::util::MessageToJsonString(message, &json_output,
+                                                          json_options);
+   if (!status.ok()) {

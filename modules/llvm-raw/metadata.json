@@ -1,0 +1,11 @@
+{
+    "homepage": "https://github.com/llvm/llvm-project",
+    "maintainers": [],
+    "repository": [
+        "github:llvm/llvm-project"
+    ],
+    "versions": [
+        "20240809.0-35f55f5",
+    ],
+    "yanked_versions": {}
+}

@@ -1,0 +1,11 @@
+{
+    "url": "https://github.com/google/perfetto/archive/refs/tags/v41.0.tar.gz",
+    "integrity": "sha256-TI/opgn8x3ymU+yF84erbDoEj82N+SdaGqgIeYS4nbg=",
+    "strip_prefix": "perfetto-41.0",
+    "patches": {
+        "perfetto.patch": "sha256-0b0QajvyLwq8iLC3JfSMqmciy12nag1s/PPkiXxXsWo=",
+        "add_build_file.patch": "sha256-TducEZEEqo086rlcq1T13ju8FKspNXRvha6eGpZJ2XY=",
+        "module_dot_bazel.patch": "sha256-KRivI+HHkX5fJKQEeHgnDgCu+zo15agIGeL/Y33Om/A="
+    },
+    "patch_strip": 1
+}

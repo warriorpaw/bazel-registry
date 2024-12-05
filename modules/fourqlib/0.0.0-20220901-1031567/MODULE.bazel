@@ -1,0 +1,8 @@
+module(
+    name = "fourqlib",
+    version = "0.0.0-20220901-1031567",
+    compatibility_level = 1,
+)
+
+bazel_dep(name = "rules_foreign_cc", version = "0.12.0")
+bazel_dep(name = "platforms", version = "0.0.8")

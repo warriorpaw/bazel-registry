@@ -1,0 +1,11 @@
+{
+    "homepage": "https://github.com/openxla/stablehlo",
+    "maintainers": [],
+    "repository": [
+        "github:openxla/stablehlo"
+    ],
+    "versions": [
+        "20240808.0-24d1807",
+    ],
+    "yanked_versions": {}
+}

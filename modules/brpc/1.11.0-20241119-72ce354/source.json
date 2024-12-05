@@ -1,0 +1,9 @@
+{
+    "url": "https://github.com/apache/brpc/archive/72ce354a1df5839afe29c4c86263d26bf896779c.tar.gz",
+    "integrity": "sha256-Whdpm0Rd/TQLh2AP/TyYv7yL0IpMUGn8YSiKuy98oXc=",
+    "strip_prefix": "brpc-72ce354a1df5839afe29c4c86263d26bf896779c",
+    "patches": {
+        "brpc.patch": "sha256-wS+cjuZpXtT5kUNDjl2MQxKYpFaNX73QKvtn18zOwIk="
+    },
+    "patch_strip": 0
+}

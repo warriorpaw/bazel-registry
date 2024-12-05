@@ -1,0 +1,12 @@
+{
+    "url": "https://github.com/microsoft/SEAL/archive/refs/tags/v3.6.6.tar.gz",
+    "integrity": "sha256-haYxiKXMyNYbCtu5LoSvm3Ij/ElNMyYPoXoSFDN5Cg4=",
+    "strip_prefix": "SEAL-3.6.6",
+    "patches": {
+        "seal.patch": "sha256-5oYh7fZHRqLWFfH95/es3h7/y1kceE98jKotM3bjhaw=",
+        "seal-evaluator.patch": "sha256-y/0Vz6H2dtfV6Q4kxjBt+YfNgfoLalxlX4NaeWh6URc=",
+        "add_build_file.patch": "sha256-5bY5U4WeE/Fr2lVVMc7fksyGCFtRMpvQD3zBmcAfkFo=",
+        "module_dot_bazel.patch": "sha256-Ky5N2BB5BL2sJEVKI0uPonXPEG+IkB/lZMuNB5P2MEU="
+    },
+    "patch_strip": 1
+}

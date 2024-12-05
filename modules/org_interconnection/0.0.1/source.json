@@ -1,0 +1,6 @@
+{
+    "url": "https://github.com/secretflow/interconnection/archive/b9dce7ecc901639ea38fa22e45ab0b18e8eb7787.tar.gz",
+    "integrity": "sha256-ozOaOj5//vqy9CwBGxJ3kNDXW3QNKtBadakgE9hA4Gw=",
+    "strip_prefix": "interconnection-b9dce7ecc901639ea38fa22e45ab0b18e8eb7787",
+    "patch_strip": 0
+}

@@ -1,0 +1,6 @@
+{
+    "url": "https://github.com/secretflow/simplest-ot/archive/60197bc7dad327bb55759e8e854885411e999167.tar.gz",
+    "integrity": "sha256-yIFr8UfjIPUcUW9MUR8tGnMqwNDxcdKfRCy+K1Fz3bo=",
+    "strip_prefix": "simplest-ot-60197bc7dad327bb55759e8e854885411e999167",
+    "patch_strip": 0
+}

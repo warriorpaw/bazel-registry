@@ -1,0 +1,10 @@
+{
+    "url": "https://github.com/DLTcollab/sse2neon/archive/8df2f48dbd0674ae5087f7a6281af6f55fa5a8e2.tar.gz",
+    "integrity": "sha256-eH4KemTxRhtIIyp/m56cFPpKNaMIdfL7ka7G3erd/A8=",
+    "strip_prefix": "sse2neon-8df2f48dbd0674ae5087f7a6281af6f55fa5a8e2",
+    "patches": {
+        "add_build_file.patch": "sha256-qkjcI2l2GXUJMAH1LheiMRrXKgiFFyrN/ID66Yy07L8=",
+        "module_dot_bazel.patch": "sha256-XlzXdqXbivKwe82x7x1lxaN5wndfbWD517q2/fmRyHw="
+    },
+    "patch_strip": 0
+}

@@ -1,0 +1,11 @@
+{
+    "url": "https://github.com/herumi/mcl/archive/refs/tags/v1.99.tar.gz",
+    "integrity": "sha256-X/lwLB8bAhkl0TNMoKA8h3gxdAda6vh4AYQtPAiz054=",
+    "strip_prefix": "mcl-1.99",
+    "patches": {
+        "mcl.patch": "sha256-2e2hyHlcYNLgEPi/ReBTY/ePeht/x4E6u5Q7O+TxZiw=",
+        "add_build_file.patch": "sha256-hSjdN6j6GEtspePYyTgfOyq5W54FXfv7w1ce1l0jaHU=",
+        "module_dot_bazel.patch": "sha256-Zl4wkyJdwuM90fDXVZ8TM0J8nMTpyy+QFuNMUqzYeCA="
+    },
+    "patch_strip": 1
+}

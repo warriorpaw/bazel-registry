@@ -1,0 +1,11 @@
+{
+    "homepage": "https://github.com/sparsehash/sparsehash",
+    "maintainers": [],
+    "repository": [
+        "github:sparsehash/sparsehash"
+    ],
+    "versions": [
+        "2.0.4"
+    ],
+    "yanked_versions": {}
+}

@@ -1,0 +1,11 @@
+{
+    "homepage": "https://github.com/microsoft/APSI",
+    "maintainers": [],
+    "repository": [
+        "github:microsoft/APSI"
+    ],
+    "versions": [
+        "0.11.0"
+    ],
+    "yanked_versions": {}
+}

@@ -1,0 +1,11 @@
+{
+    "homepage": "https://github.com/openssl/openssl",
+    "maintainers": [],
+    "repository": [
+        "github:openssl/openssl"
+    ],
+    "versions": [
+        "3.3.2.bcr.1"
+    ],
+    "yanked_versions": {}
+}

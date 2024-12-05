@@ -1,0 +1,11 @@
+{
+    "homepage": "https://github.com/openxla/xla",
+    "maintainers": [],
+    "repository": [
+        "github:openxla/xla"
+    ],
+    "versions": [
+        "20240814.0-64bdcc5",
+    ],
+    "yanked_versions": {}
+}

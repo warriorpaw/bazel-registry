@@ -1,0 +1,12 @@
+{
+    "homepage": "https://github.com/google/perfetto",
+    "maintainers": [],
+    "repository": [
+        "github:google/perfetto"
+    ],
+    "versions": [
+        "41.0",
+        "48.1"
+    ],
+    "yanked_versions": {}
+}

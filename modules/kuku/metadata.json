@@ -1,0 +1,11 @@
+{
+    "homepage": "https://github.com/microsoft/Kuku",
+    "maintainers": [],
+    "repository": [
+        "github:microsoft/Kuku"
+    ],
+    "versions": [
+        "2.1.0"
+    ],
+    "yanked_versions": {}
+}

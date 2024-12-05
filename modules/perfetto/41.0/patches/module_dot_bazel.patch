@@ -1,0 +1,9 @@
+--- a/MODULE.bazel
++++ a/MODULE.bazel
+@@ -0,0 +1,6 @@
++module(
++    name = "perfetto",
++    version = "41.0",
++    compatibility_level = 1,
++)
++bazel_dep(name = "rules_cc", version = "0.0.13")

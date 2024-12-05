@@ -1,0 +1,13 @@
+{
+    "homepage": "https://github.com/protocolbuffers/protobuf",
+    "maintainers": [
+    ],
+    "repository": [
+        "github:protocolbuffers/protobuf"
+    ],
+    "versions": [
+        "25.5"
+    ],
+    "yanked_versions": {
+    }
+}

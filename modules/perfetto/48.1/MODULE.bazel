@@ -1,0 +1,9 @@
+module(
+    name = "perfetto",
+    version = "48.1",
+    compatibility_level = 1,
+)
+
+bazel_dep(name = "protobuf", version = "3.19.6", repo_name = "com_google_protobuf")
+bazel_dep(name = "sqlite3", version = "3.46.1", repo_name = "perfetto_dep_sqlite")
+bazel_dep(name = "llvm-project", version = "17.0.3")

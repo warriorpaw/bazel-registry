@@ -1,0 +1,9 @@
+{
+    "url": "https://github.com/Tongsuo-Project/Tongsuo/archive/refs/tags/8.4.0.tar.gz",
+    "integrity": "sha256-V8J0F1Cmmb+9qhu+RKVzPpyPxl0IbCEBUc+8K71vyXU=",
+    "strip_prefix": "Tongsuo-8.4.0",
+    "patches": {
+        "add_build_file.patch": "sha256-z4NNQRwiMYCelst87XW6lVoK7N866tptc0AYhDMo6dI="
+    },
+    "patch_strip": 1
+}

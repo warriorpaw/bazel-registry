@@ -1,0 +1,7 @@
+module(
+    name = "eigen",
+    version = "3.4.90-20230801-66e8f3",
+    compatibility_level = 1,
+)
+bazel_dep(name = "rules_cc", version = "0.0.13")
+bazel_dep(name = "platforms", version = "0.0.8")

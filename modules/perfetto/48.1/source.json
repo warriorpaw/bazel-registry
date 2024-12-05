@@ -1,0 +1,9 @@
+{
+    "url": "https://github.com/google/perfetto/archive/refs/tags/v48.1.tar.gz",
+    "integrity": "sha256-jRxr9E8b2wmKtwzWDaPOa25zHk6yHdUrJSfL3PhdmE0=",
+    "strip_prefix": "perfetto-48.1",
+    "patch_strip": 0,
+    "patches": {
+        "module_dot_bazel.patch": "sha256-RVGb2IEIK6tYGvQ7OXfM2I4CPMhlvr6f+9s2Ql/rhYI="
+    }
+}

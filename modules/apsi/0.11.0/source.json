@@ -1,0 +1,11 @@
+{
+    "url": "https://github.com/microsoft/APSI/archive/refs/tags/v0.11.0.tar.gz",
+    "integrity": "sha256-gsD5Mpx5IiZ1EJ1KNoLSBKzT6ppyS82Y+ljqvlOFEzM=",
+    "strip_prefix": "APSI-0.11.0",
+    "patches": {
+        "apsi-fourq.patch": "sha256-G08+34SiVbG6KzfNKbNtiq7qZNWnnD4/O1spebGXc2o=",
+        "apsi.patch": "sha256-u67UqvDur+z54M4swfB74ymyC+d92qsMfBWnifDREyo=",
+        "add_build_file.patch": "sha256-u/cgpGb6mu7Zu2Tcnowrhe+hmE74ZjKhNo8DMLU6F/w="
+    },
+    "patch_strip": 1
+}

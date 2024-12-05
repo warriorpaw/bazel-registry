@@ -1,0 +1,10 @@
+{
+    "url": "https://github.com/ridiculousfish/libdivide/archive/refs/tags/5.0.tar.gz",
+    "integrity": "sha256-Af/fkLxHXkIXB0HTgeuc+2MdnX3axzNzaLzYDfjJg1Y=",
+    "strip_prefix": "libdivide-5.0",
+    "patches": {
+        "add_build_file.patch": "sha256-dRYSdD5sA3cMgXjPvXtc6JNHmBoO2j1JCNc80xuaCug=",
+        "module_dot_bazel.patch": "sha256-d0UgLVIVcYc7Hru7I8aHgKdi+5BkmvPc1nUwIjcYmj0="
+    },
+    "patch_strip": 0
+}

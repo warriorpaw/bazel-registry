@@ -1,0 +1,9 @@
+{
+    "url": "https://lib25519.cr.yp.to/lib25519-20240321.tar.gz",
+    "integrity": "sha256-0BC66nGRU/4/ASeJtaHeJ9kfu8/GVVnn7uXYAr+R6t0=",
+    "strip_prefix": "lib25519-20240321",
+    "patches": {
+        "add_build_file.patch": "sha256-LgzWon7TA0BxL4nUtZaZPB0ge1o3akVFyUUwL72dA1I="
+    },
+    "patch_strip": 0
+}

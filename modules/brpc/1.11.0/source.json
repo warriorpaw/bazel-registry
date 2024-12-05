@@ -1,0 +1,9 @@
+{
+    "url": " https://github.com/apache/brpc/archive/refs/tags/1.11.0.tar.gz",
+    "integrity": "sha256-74flQ6ULckbOgzBlqGEIT4wypOInNptEBfIl+CqNMDA=",
+    "strip_prefix": "brpc-1.11.0",
+    "patch_strip": 0,
+    "patches": {
+        "brpc.patch": "sha256-wS+cjuZpXtT5kUNDjl2MQxKYpFaNX73QKvtn18zOwIk="
+    }
+}

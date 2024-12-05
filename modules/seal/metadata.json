@@ -1,0 +1,12 @@
+{
+    "homepage": "https://github.com/microsoft/SEAL/",
+    "maintainers": [],
+    "repository": [
+        "github:microsoft/SEAL"
+    ],
+    "versions": [
+        "3.6.6",
+        "4.1.1"
+    ],
+    "yanked_versions": {}
+}

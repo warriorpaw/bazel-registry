@@ -1,0 +1,11 @@
+{
+    "url": "https://github.com/apache/arrow/archive/apache-arrow-10.0.0.tar.gz",
+    "integrity": "sha256-KFKyH5PuhBhanYOICcmpxBv23sp0G+0XROD9umzBnj8=",
+    "strip_prefix": "arrow-apache-arrow-10.0.0",
+    "patches": {
+        "arrow.patch": "sha256-ju4QyxFeJ5aTbews2Y3pARbojxCyfKcBgu0zwiQ7kCY=",
+        "add_build_file.patch": "sha256-cMFWfDQq2d1upeCHjvcKLq2wpE6xtzurcelz8ryEPsA=",
+        "module_dot_bazel.patch": "sha256-FQkfyQ2Cor3TJvO891chqui0OshKsL/BqtSi6GhMHEA="
+    },
+    "patch_strip": 0
+}

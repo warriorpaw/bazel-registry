@@ -1,0 +1,10 @@
+{
+    "url": "https://github.com/libtom/libtommath/archive/42b3fb07e7d504f61a04c7fca12e996d76a25251.tar.gz",
+    "integrity": "sha256-fPvbZEMRKd5CV+fTNJIA/b1PIptHD/NBezDQ85vu1B8=",
+    "strip_prefix": "libtommath-42b3fb07e7d504f61a04c7fca12e996d76a25251",
+    "patches": {
+        "libtommath.patch": "sha256-Xj2RDwuCubUOPj+qJa5rza/Ylm4wigZh9YeX15r2yEs=",
+        "add_build_file.patch": "sha256-ilDG6go+JCacDh9E4Ntwx8lWJbAGOopozceqLPBSVok="
+    },
+    "patch_strip": 1
+}

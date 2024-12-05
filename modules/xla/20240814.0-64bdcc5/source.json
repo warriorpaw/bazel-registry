@@ -1,0 +1,15 @@
+{
+    "strip_prefix": "xla-64bdcc53a1b24abf19b1fe598e6f9b0fe6454470",
+    "url": "https://github.com/openxla/xla/archive/64bdcc53a1b24abf19b1fe598e6f9b0fe6454470.tar.gz",
+    "integrity": "sha256-YJGLOgOR/p4L1QbJuQFwt7X6ZNBt5+wfTw41GjA6iPo=",
+    "overlay": {
+        "tsl.bzl": "",
+        "workspace.bzl": "",
+        "MODULE.bazel": ""
+    },
+    "patches": {
+        "xla-non-hermetic-python.patch": "",
+        "xla-protobuf.patch": ""
+    },
+    "patch_strip": 1
+}
