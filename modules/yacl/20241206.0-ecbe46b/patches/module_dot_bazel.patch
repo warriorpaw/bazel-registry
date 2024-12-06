@@ -1,0 +1,12 @@
+diff --git a/MODULE.bazel b/MODULE.bazel
+index 4fe3133..a51617a 100644
+--- a/MODULE.bazel
++++ b/MODULE.bazel
+@@ -21,6 +21,7 @@
+ 
+ module(
+     name = "yacl",
++    version = "20241206.0-ecbe46b",
+     compatibility_level = 1,
+ )
+ 
