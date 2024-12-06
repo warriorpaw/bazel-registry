@@ -1,0 +1,9 @@
+{
+    "url": "https://github.com/secretflow/yacl/archive/b9dc6c3d2a810a8091dcf116b8d0c32f39f26181.tar.gz",
+    "integrity": "sha256-BNvOkl9srp7jtpkE5uKBkEJAGCK97bjb+J1mHZpJrAo=",
+    "strip_prefix": "yacl-b9dc6c3d2a810a8091dcf116b8d0c32f39f26181",
+    "patch_strip": 1,
+    "patches": {
+        "module_dot_bazel.patch": "sha256-o3VJm3onFY1h1pSTHb+fonz7z/IrGauJl0CkFhcyHgQ="
+    }
+}
