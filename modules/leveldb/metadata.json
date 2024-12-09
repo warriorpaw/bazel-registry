@@ -1,0 +1,11 @@
+{
+    "homepage": "https://github.com/google/leveldb",
+    "maintainers": [],
+    "repository": [
+        "github:google/leveldb"
+    ],
+    "versions": [
+        "1.23"
+    ],
+    "yanked_versions": {}
+}
