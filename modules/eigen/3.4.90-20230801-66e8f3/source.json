@@ -2,8 +2,12 @@
     "url": "https://gitlab.com/libeigen/eigen/-/archive/66e8f38891841bf88ee976a316c0c78a52f0cee/eigen-66e8f38891841bf88ee976a316c0c78a52f0cee5.tar.gz",
     "integrity": "sha256-MoNm6jneGZBnb3syH9xG1c6J0GwS9B7p+vS9igCnS/g=",
     "strip_prefix": "eigen-66e8f38891841bf88ee976a316c0c78a52f0cee-66e8f38891841bf88ee976a316c0c78a52f0cee5",
-    "patches": {
-        "add_build_file.patch": "sha256-kMUT1s9E2kF0NKjnwLcWdc9FN/ST17sUP1+vihLh6x4="
+    "overlay": {
+        "BUILD.bazel": "sha256-Ngg93Q06eXMdhfbHXJG7viFkiNm/hbWIctEfQNMCrA8=",
+        "local_openmp_macos.BUILD": "sha256-o7ZZ0fBkPYL4wz570H86B4nN9+ufxFmdvC20mEzt69Y="
     },
-    "patch_strip": 0
+    "patches": {
+        "omp.patch": "sha256-+2hH29tOxbbIh2qgeki+V1ebaKdfalW623CPtdVXGSE="
+    },
+    "patch_strip": 1
 }
