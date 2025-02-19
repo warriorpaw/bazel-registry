@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/apache/brpc/archive/d72281f655cba122044857a542e17a6601e0fcd3.tar.gz",
+  "integrity": "sha256-2Its/Gkz+kcOP8I6ZJMjUD2U8LfknXM7acYVatyUXMc=",
+  "strip_prefix": "brpc-d72281f655cba122044857a542e17a6601e0fcd3",
+  "patches": {
+    "brpc.patch": "sha256-KpKHOMCej9NuC3FuYCrUDL6equ/FFpAVhoSaluQRmlo=",
+    "MODULE_dot_bazel.patch": "sha256-0nBq7GiVpeyh/zQOmCTU7cj13qkF70VyF2STiR64PsM="
+  },
+  "patch_strip": 1
+}
