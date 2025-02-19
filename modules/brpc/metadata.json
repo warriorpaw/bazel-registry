@@ -1,13 +1,13 @@
 {
-  "homepage": "https://github.com/apache/brpc/",
-  "maintainers": [],
-  "repository": [],
-  "versions": [
-    "1.11.0-20250219-d72281f",
-    "1.11.0-20241212-282bc90",
-    "1.11.0-20241119-72ce354",
-    "1.11.0-20241030-282776a",
-    "1.11.0"
-  ],
-  "yanked_versions": {}
+    "homepage": "https://github.com/apache/brpc/",
+    "maintainers": [],
+    "repository": [],
+    "versions": [
+        "1.11.0-20241030-282776a",
+        "1.11.0-20241119-72ce354",
+        "1.11.0-20241212-282bc90",
+        "1.11.0-20250219-d72281f",
+        "1.11.0"
+    ],
+    "yanked_versions": {}
 }
