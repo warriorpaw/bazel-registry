@@ -5,8 +5,8 @@ index e53146ae..1c9d4a51 100644
 @@ -1,17 +1,18 @@
  module(
    name = 'brpc',
--  version = '1.11.0',
-+  version = '1.11.0-20250219-d72281f',
+-  version = '1.12.0',
++  version = '1.12.0-20250219-d72281f',
    compatibility_level = 1,
  )
  
